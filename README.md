@@ -1,7 +1,8 @@
 <h1 align="center">Hello There, I'm Abdelhak Khmaissia</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delhackk&label=Profile%20views&color=0e75b6&style=flat" alt="delhackk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=delhackk&label=Profile%20views&color=0e75b6&style=flat" alt="delhackk" /> </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=delhackk&label=Profile%20views&color=0e75b6&style=flat" alt="delhackk" /> </p>
+
 
 - 💬 Ask me about **NextJS, React, Ruby on rails, NodeJS**
 
